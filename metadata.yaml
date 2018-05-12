@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4882
     wikipedia: http://en.wikipedia.org/wiki/Janet_McKenzie_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26032#American-CookeryNovember-1921
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2008-07-11'
 gutenberg_type: Text
